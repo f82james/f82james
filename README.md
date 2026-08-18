@@ -50,7 +50,7 @@ i like **programming**, **ricing**, **anime**, **working with AI**, **vibe codin
    │  (˶ᵔ ᵕ ᵔ˶)               │
    │  /づ￣￣づ  kawaii       │
    │  8px even • 28px bar     │
-   │                          │
+   │  ·                       │
    ╰──────────────────────────╯
 ```
 

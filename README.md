@@ -29,46 +29,14 @@ i like **programming**, **ricing**, **anime**, **working with AI**, **vibe codin
    ricing  •  programming  •  anime  -  1C1E20 • 0A84FF
 ```
 
-<table align="center">
-<tr>
-<td>
-
 ```ascii
-   ╭─ me ─────────────────────╮
-   │  ∧＿∧                    │
-   │  (｡•ω•｡)  f82james       │
-   │  / つ♥  arch • Hypr      │
-   │  しーＪ   rice • code    │
-   ╰──────────────────────────╯
+╭─ f82james ──────────────────────────────────────────╮
+│  ∧＿∧  (｡•ω•｡)  (˶ᵔ ᵕ ᵔ˶)  -  anime • programming  │
+│  / つ♥  arch • Hypr  •  8px even • 28px bar        │
+│  🍎 M1 Asahi Arch  2560×1600@60 @1.6  •  🔧 Xeon 2699v3 + RTX 3080  Arch  │
+│  vibe coding • working with AI • ricing • BMWs     │
+╰─────────────────────────────────────────────────────╯
 ```
-
-</td>
-<td>
-
-```ascii
-   ╭─ anime ──────────────────╮
-   │  (˶ᵔ ᵕ ᵔ˶)               │
-   │  /づ￣￣づ  kawaii       │
-   │  8px even • 28px bar     │
-   │  ·                       │
-   ╰──────────────────────────╯
-```
-
-</td>
-<td>
-
-```ascii
-   ╭─ setups ─────────────────╮
-   │  🍎 M1 Asahi Arch        │
-   │  2560×1600@60 @1.6       │
-   │  🔧 Xeon 2699v3          │
-   │  RTX 3080 • Arch         │
-   ╰──────────────────────────╯
-```
-
-</td>
-</tr>
-</table>
 
 ### setups
 

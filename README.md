@@ -3,27 +3,30 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&pause=900&color=30D158&center=true&vCenter=true&width=680&lines=Arch+Linux+on+everything;I+like+to+code%2C+rice%2C+and+watch+anime;M1+Asahi+%2B+Xeon+2699v3+%2B+RTX+3080" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&pause=900&color=30D158&center=true&vCenter=true&width=680&lines=Arch+Linux+on+everything;programming+%2B+ricing+%2B+anime+%2B+AI+%2B+vibe+coding;M1+Asahi+%2B+Xeon+2699v3+%2B+RTX+3080+%2B+BMWs" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arch-Asahi_M1-0A84FF?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <!-- camo hidden — kept but not rendered (were two black boxes)
+  <!-- camo hidden - kept but not rendered (were two black boxes)
   <img src="https://img.shields.io/badge/Arch-Xeon_2699v3-1C1E20?style=for-the-badge&logo=archlinux&logoColor=30D158" />
   <img src="https://img.shields.io/badge/RTX-3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   -->
   <img src="https://img.shields.io/badge/Anime-ASCII-FF453A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Working-0A84FF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe-Coding-30D158?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BMWs-♥-1C1E20?style=for-the-badge&logo=bmw&logoColor=FFFFFF" />
 </p>
 
-### hi — i'm james
+### hi - i'm james
 
-i like **programming**, **ricing** my desktop, and **anime**. i live in `hyprland` + `quickshell` and spend too much time making the bar sit 8px even.
+i like **programming**, **ricing**, **anime**, **working with AI**, **vibe coding**, and **BMWs**. i live in `hyprland` + `quickshell` and split time between `arch-m1-mac` and the `Xeon + 3080` rig.
 
-> ascii from [emojicombos.com/anime-ascii-art](https://emojicombos.com/anime-ascii-art) — copy & paste
+> ascii from [emojicombos.com/anime-ascii-art](https://emojicombos.com/anime-ascii-art) - copy & paste
 
 ```ascii
   (｡•‿•｡)   (˶ᵔ ᵕ ᵔ˶)   (≧▽≦)   (╥﹏╥)   ∧＿∧
-   ricing  •  programming  •  anime  —  1C1E20 • 0A84FF
+   ricing  •  programming  •  anime  -  1C1E20 • 0A84FF
 ```
 
 <table align="center">
@@ -99,7 +102,7 @@ i like **programming**, **ricing** my desktop, and **anime**. i live in `hyprlan
 
 <p align="center">
   <a href="https://github.com/f82james/dot-files"><img src="https://img.shields.io/badge/dot--files-arch--m1--mac-131519?style=flat-square&logo=apple&logoColor=E8EAED" /></a><br>
-  <sub>not about the config — about the rice</sub>
+  <sub>not about the config - about the rice</sub>
 </p>
 
 <p align="center">

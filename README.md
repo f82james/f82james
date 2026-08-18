@@ -95,7 +95,7 @@ i like **programming**, **ricing** my desktop, and **anime**. i live in `hyprlan
 
 
 <p align="center">
-  <a href="https://github.com/f82james/dot-files"><img src="https://img.shields.io/badge/dot--files-arch--m1--mac-131519?style=flat-square&logo=apple&logoColor=E8EAED" /></a>
+  <a href="https://github.com/f82james/dot-files"><img src="https://img.shields.io/badge/dot--files-arch--m1--mac-131519?style=flat-square&logo=apple&logoColor=E8EAED" /></a><br>
   <sub>not about the config — about the rice</sub>
 </p>
 

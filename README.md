@@ -8,6 +8,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arch-Asahi_M1-0A84FF?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <!-- camo hidden — kept but not rendered (were two black boxes)
+  <img src="https://img.shields.io/badge/Arch-Xeon_2699v3-1C1E20?style=for-the-badge&logo=archlinux&logoColor=30D158" />
+  <img src="https://img.shields.io/badge/RTX-3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  -->
   <img src="https://img.shields.io/badge/Anime-ASCII-FF453A?style=for-the-badge" />
 </p>
 
